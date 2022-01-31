@@ -1,5 +1,8 @@
 # Web-Scrapping_GitHub
 Web Scrapping Github Top Repositories
+In this Project i have included all the code and functions from scratch.From picking the URL to extracting informtion of each topics and each repository.
+
+The main code is present at last part,
 Steps I followed:-
 -Get a list of topics. For each topic, I will get topic title, topic page URL and topic description
 
